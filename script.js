@@ -35,35 +35,4 @@ let mySampleObject = {
 
 let myZooAnimals;
 
-myZooAnimals = [
-  {
-    animalType: "Gorilla",
-    name: "Jeffrey",
-    age: 14,
-    pictureURL:
-      "https://images.unsplash.com/photo-1581281863883-2469417a1668?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=751&q=80",
-  },
-  {
-    animalType: "Giraffe",
-    name: "Becca",
-    age: 4,
-    pictureURL:
-      "https://plus.unsplash.com/premium_photo-1673296129756-e45408e25250?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=813&q=80",
-  },
-  {
-    animalType: "Panda",
-    name: "Spot",
-    age: 24,
-    pictureURL:
-      "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
-  },
-  {
-    animalType: "Elephant",
-    name: "Trunks",
-    age: 50,
-    pictureURL:
-      "https://images.unsplash.com/photo-1581852017103-68ac65514cf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
-  },
-];
-
 //END OF ASSIGNMENT
