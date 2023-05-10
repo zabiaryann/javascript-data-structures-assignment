@@ -33,7 +33,7 @@ let mySampleObject = {
 };
 ```
 
-# Your Taks:
+# Your Task:
 Given what we just learned, your assignment is to create an array of objects! Set the myZooAnimals variable in script.js to an array of **at least 3** objects that have the following keys and make up some values for them:
 1. animalType
 2. name
