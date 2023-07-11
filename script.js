@@ -28,7 +28,7 @@
 //2. name
 //3. age
 //4. pictureURl
-let myZooAnimals = {
+ let myZooAnimals = {
       animalObj1: [
         {
         animalType: 'Wild',
@@ -37,7 +37,7 @@ let myZooAnimals = {
         URL: 'https://media.istockphoto.com/id/155320777/photo/king-of-the-serengeti.jpg?s=612x612&w=0&k=20&c=OFZX8JXNlIdKA_vRdG-LSE8_w6QagwL2XxYctFzAoVw='
     }
   ],
-  animalObj2:[
+   animalObj2:[
     {
       animalType: 'Fast Runner',
       name: 'tiger',
@@ -46,7 +46,7 @@ let myZooAnimals = {
     }
 
   ],
-  animalObj3:[
+   animalObj3:[
     {
       animalType: 'Strong',
       name: 'Buffalo',
