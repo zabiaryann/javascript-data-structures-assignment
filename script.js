@@ -28,11 +28,38 @@ let mySampleObject = {
 //2. name
 //3. age
 //4. pictureURl
+let myZooAnimals = {
+      animalObj1: [
+        {
+        animalType: 'Wild',
+        name: 'Lion',
+        age: 7,
+        URL: 'https://media.istockphoto.com/id/155320777/photo/king-of-the-serengeti.jpg?s=612x612&w=0&k=20&c=OFZX8JXNlIdKA_vRdG-LSE8_w6QagwL2XxYctFzAoVw='
+    }
+  ],
+  animalObj2:[
+    {
+      animalType: 'Fast Runner',
+      name: 'tiger',
+      age: 6,
+      URL: 'https://media.istockphoto.com/id/108327805/photo/running-cheetah.jpg?s=1024x1024&w=is&k=20&c=pznfmlT13PQNGQoRzrHEEmEY3dmK_HfO2dlZe8Eyi80='
+    }
 
+  ],
+  animalObj3:[
+    {
+      animalType: 'Strong',
+      name: 'Buffalo',
+      age: 17,
+      URL: 'https://unsplash.com/photos/7ytKCC9bMYA'
+    }
+
+  ],
+
+}
 //Hint: go to https://unsplash.com for some great, high-res pics and search up whatever animal you want!
 
 //Make sure to make at least 3 animal objects with these keys inside of the myZooAnimals array!
-
-let myZooAnimals;
+console.log(myZooAnimals)
 
 //END OF ASSIGNMENT
