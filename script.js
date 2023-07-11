@@ -6,17 +6,17 @@
 //To review, an array is an ordered collection of data where each item is assigned
 //an index starting from 0
 //e.g.
-let mySampleArray = ["Index 0", "Index 1", "Index 2"];
+//let mySampleArray = ["Index 0", "Index 1", "Index 2"];
 
 //An object, is used to store collections of data in a key-value pair format,
 //where each key is a string (although quotes are optional for keys without spaces in them) and
 //the values can be any data type
 
-let mySampleObject = {
+/*let mySampleObject = {
   firstName: "John",
   lastName: "Doe",
   age: 50,
-};
+};*/
 
 //END OF REVIEW
 
